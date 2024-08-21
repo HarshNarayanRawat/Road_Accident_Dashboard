@@ -31,7 +31,11 @@ In this Excel dashboard project, we've incorporated Buttons, Filters, and Slicer
 
 ## Timeline and Slicers 
 
-https://github.com/user-attachments/assets/38178bc4-dccc-4645-bc4c-2fd865188fb5
+
+
+https://github.com/user-attachments/assets/5a7bcfe6-6c69-4bd3-be68-476927c1c6e1
+
+
 
 # Results
 * The most common type of vehicle involved in road accidents is a car.
